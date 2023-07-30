@@ -1,0 +1,6 @@
+.side-image {
+    background-image: url('../assets/images/login.jpg');
+    /* replace with your image path */
+    background-size: cover;
+    background-position: center;
+}
